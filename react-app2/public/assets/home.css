@@ -1,0 +1,91 @@
+body{
+    background-image: url("../Downloads/bg-img.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+    border-radius: 100px;
+}
+.right {
+    padding-top: 75px;
+    padding-left: 100px;
+}
+button{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 490px;
+    top: 433px;
+    
+    background: #F47522;
+    border-radius: 20px;
+}
+.my-home {
+color: #F47522;
+}
+h1{
+    position: absolute;
+width: 521px;
+height: 100px;
+left: 488px;
+top: 249px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 85px;
+line-height: 100px;
+/* identical to box height */
+
+
+color: #19345E;
+}
+h5{
+    position: absolute;
+width: 165px;
+height: 29px;
+left: 488px;
+top: 220px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #19345E;
+}
+h2{
+    position: absolute;
+width: 387px;
+height: 41px;
+left: 490px;
+top: 370px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #19345E;
+}
+ul{
+    position: absolute;
+width: 42px;
+height: 15px;
+left: 797px;
+top: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+
+color: #19345E;
+padding-right: 20;
+}
